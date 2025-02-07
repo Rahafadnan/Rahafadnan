@@ -1,9 +1,7 @@
 <h1 align="center">helluh everyone! 👋, I'm Rahaf alshammari</h1>
 <h3 align="center">A passionate developer from Saudi Arabia exploring the world of C++, Java, JavaScript, SQL, HTML, and CSS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahafadnan&label=Profile%20views&color=0e75b6&style=flat" alt="rahafadnan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahafadnan" alt="rahafadnan" /></a> </p>
 
 - 🔭 I’m currently working on **Learning HTML and JavaScript to build interactive websites.**
 
@@ -13,13 +11,9 @@
 
 - 🤝 I’m looking for help with **Understanding more advanced JavaScript concepts**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
 - 💬 Ask me about **Funny coding mistakes or beginner web development struggles!**
 
 - 📫 How to reach me **alshammari.ra02@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **I once spent an hour trying to figure out why my code wasn’t working, only to realize I was missing a semicolon!**
 
@@ -36,5 +30,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
